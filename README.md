@@ -3,9 +3,8 @@
   
   <br/>
   
-  <h2>Hello, world! 👋 </h2>
+  # Hello, world! 👋 
   
-  <hr/>
   
   <br/>
   
