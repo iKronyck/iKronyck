@@ -14,7 +14,10 @@
   <div align="left">
     <img width="150" height="150" align="left" src="https://media.tenor.com/images/192d331a71371d9356cb84d2b26ed59d/tenor.gif" />
     
-   <h2>I'm a Salvadorean Front-End developer who loves mobile development hybrid and native.Currently I'm learning English and mobile development with Android and iOS 🤓 .</h2>
+   <h2>
+    I'm a Salvadorean Front-End developer who loves mobile development hybrid and native.
+    Currently I'm learning English and mobile development with Android and iOS 🤓 .
+   </h2>
   </div>
   <!-- <img src="./hey.gif"  /> -->
   
