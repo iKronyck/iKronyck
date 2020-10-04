@@ -19,7 +19,8 @@
     <br/>
     <br/>
     Currently I'm learning English and mobile development with Android and iOS 🤓 .
-  <br/>
+    <br/>
+    <br/>
    </h2>
   </div>
   <!-- <img src="./hey.gif"  /> -->
