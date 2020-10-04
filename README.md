@@ -2,6 +2,7 @@
   <img
     src="./gif.gif"
     width="650px"
+    height="400px"
   />
   
   <br/>
