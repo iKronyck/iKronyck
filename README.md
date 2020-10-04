@@ -15,7 +15,6 @@
     <img width="150" height="150" align="left" src="https://media.tenor.com/images/192d331a71371d9356cb84d2b26ed59d/tenor.gif" />
     
    <h2>
-    <br/>
     I'm a Salvadorean Front-End developer who loves mobile development hybrid and native.
     <br/>
     <br/>
