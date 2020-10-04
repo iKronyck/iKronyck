@@ -2,13 +2,13 @@
   
   # Hey there, I'm Israel! 👋
   
-  <hr />
-  
   <img
     src="./gif.gif"
     width="600px"
     height="350px"
   />
+  
+  <hr />
   
   <!-- <img src="./hey.gif"  /> -->
   
