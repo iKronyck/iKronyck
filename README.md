@@ -3,10 +3,12 @@
   
   <br/>
   
-  # Hello, world! 👋 
+  # Hello there, I'm Israel! 👋 
   
   
   <br/>
+  
+  ### You can find me on:
   
   <img
     src="https://github-readme-stackoverflow.vercel.app/?userID=9324183"
