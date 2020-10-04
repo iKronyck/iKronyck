@@ -1,13 +1,14 @@
 <div align="center">
+  
+  # Hey there, I'm Israel! 👋
+  
+  <hr />
+  
   <img
     src="./gif.gif"
     width="600px"
     height="350px"
   />
-  
-  <br/>
-  
-  # Hey there, I'm Israel! 👋
   
   <!-- <img src="./hey.gif"  /> -->
   
