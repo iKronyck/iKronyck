@@ -24,22 +24,23 @@
    </h2>
   </div>
   
-  ### Languages and Tools:
+  # Languages and Tools:
   <div display="flex">
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/next%20js%20-%23000.svg?&style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/gatsby%20-%23663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white">
     <img src="https://img.shields.io/badge/styled%20components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white">
+    <img src="https://img.shields.io/badge/webstorm%20-%23000.svg?&style=for-the-badge&logo=webstorm&logoColor=fff">
     <img src="https://img.shields.io/badge/xcode%20-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=fff">
     <img src="https://img.shields.io/badge/android%20studio%20-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=fff">
     <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/kotlin%20-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/react/react%20native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
   </div>
   
-  
+  <hr/>
   
   # Connect with me:
   
