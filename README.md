@@ -10,11 +10,11 @@
   
   <hr />
   
- <h1>
+ <h2 align="left">
   Hi! I'm Israel, a Salvadorean Front-End developer who loves mobile development hybrid and native.
   
   Currently I'm learning English and mobile development with Android and iOS 🤓.
- <h1>
+ <h2>
   
   <!-- <img src="./hey.gif"  /> -->
   
