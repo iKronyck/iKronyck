@@ -1,8 +1,8 @@
 <div align="center">
   <img
     src="./gif.gif"
-    width="650px"
-    height="400px"
+    width="600px"
+    height="350px"
   />
   
   <br/>
