@@ -7,7 +7,7 @@
   
   <br/>
   
-  # Hey there, I'm Israel! 👋
+  # Hey there 👋, I'm Israel!
   
   <!-- <img src="./hey.gif"  /> -->
   
@@ -27,6 +27,8 @@
   />
    
 </div>
+
+# My Github status
 
 <p align = "center">
   <img
