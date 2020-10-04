@@ -7,7 +7,7 @@
   
   <br/>
   
-  # Hey there 👋, I'm Israel!
+  # Hey there, I'm Israel! 👋
   
   <!-- <img src="./hey.gif"  /> -->
   
