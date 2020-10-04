@@ -24,16 +24,13 @@
    </h2>
   </div>
   
-  <code><a href="https://www.python.org/" target="_blank"><img height="80" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-  
-  <code><a href="https://www.python.org/" target="_blank"><img height="80" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png"></a></code>
-  
-  <code><a href="https://www.python.org/" target="_blank"><img height="80" width="120" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/redux.svg"></a></code>
-  
-  <code><a href="https://www.python.org/" target="_blank"><img height="80" width="120" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
-  <code><a href="https://www.python.org/" target="_blank"><img height="80" width="120" src="https://www.styled-components.com/atom.png"></a></code>
-  
-  <code><a href="https://www.python.org/" target="_blank"><img height="80" width="120" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+  ### Languages and Tools:
+  <div display="flex">
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/styled%20components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white">
+    <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
+  </div>
   
   
   
