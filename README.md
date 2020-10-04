@@ -16,6 +16,7 @@
     
    <h2>
     I'm a Salvadorean Front-End developer who loves mobile development hybrid and native.
+    <br/>
     Currently I'm learning English and mobile development with Android and iOS 🤓 .
    </h2>
   </div>
