@@ -36,8 +36,11 @@
     <img src="https://img.shields.io/badge/android%20studio%20-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=fff">
     <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/jest%20-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white">
     <img src="https://img.shields.io/badge/kotlin%20-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/react/react%20native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white">
+    <img src="https://img.shields.io/badge/apollo%20graphql%20-%23311C87.svg?&style=for-the-badge&logo=apollo-graphql&logoColor=white">
   </div>
   
   <hr/>
