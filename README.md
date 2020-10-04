@@ -24,7 +24,7 @@
    </h2>
   </div>
   
-  ### Spotify Playing 🎧
+  # Spotify Playing 🎧
 
   [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1584035701)
   
