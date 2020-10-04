@@ -1,10 +1,4 @@
 
-<style>
-  .test {
-    font-size: 30px;
-    color: red;
-  }
-</style>
 <div align="center">
   
   # Hey there, I'm Israel! 👋
@@ -19,7 +13,7 @@
   
   <div>
     <img align="left" src="https://media.tenor.com/images/192d331a71371d9356cb84d2b26ed59d/tenor.gif" />
-    <p align="left" class="test">
+    <p align="left">
     I'm a Salvadorean Front-End developer who loves mobile development hybrid and native. Currently I'm learning English and mobile development with Android and iOS     🤓.
     <p>
   </div>
