@@ -6,7 +6,9 @@
   
   <br/>
   
-  <img src="./hey.gif"  />
+  # Hey there, I'm Israel! 👋
+  
+  <!-- <img src="./hey.gif"  /> -->
   
   
   <br/>
