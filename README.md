@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ameba-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/animacion-lobo-2.gif" width="693" height="400" />
+  <img src="https://camo.githubusercontent.com/ccc7cc7d81540edaaeef02a561808f4fa0e4006d/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" />
   
   <br/>
   
