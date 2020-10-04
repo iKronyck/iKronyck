@@ -24,6 +24,10 @@
    </h2>
   </div>
   
+  ### Spotify Playing 🎧
+
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1584035701)
+  
   # Connect with me:
   
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/iKronyck/)
