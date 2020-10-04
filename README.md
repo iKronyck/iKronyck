@@ -23,7 +23,6 @@
     <br/>
    </h2>
   </div>
-  <hr>
   
   # Connect with me:
   
