@@ -23,11 +23,6 @@
     <br/>
    </h2>
   </div>
-  <!-- <img src="./hey.gif"  /> -->
- 
-  <br/>
-  <br/>
-  <!-- <hr/> -->
   
   # Connect with me:
   
