@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://www.gokiebox.com/comparte/wp-content/uploads/2017/11/webbbb.gif"
+    src="https://ameba-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/animacion-lobo-2.gif"
     width="400px"
   />
   
