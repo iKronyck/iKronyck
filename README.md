@@ -69,5 +69,11 @@
   [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iKronyck/)
   [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/iKronyck)
   [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google%20chrome&logoColor=white">](https://iKronyck.github.io/)
-
+  
+  <p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ikronyck" id="counter">
+  </p>
+  
+  ⭐️ From [saviomartin](https://github.com/saviomartin)
+  
 </div>
