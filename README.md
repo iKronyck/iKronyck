@@ -74,6 +74,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ikronyck" id="counter">
   </p>
   
-  ⭐️ From [iKronyck](https://github.com/saviomartin)
+  ⭐️  From [iKronyck](https://github.com/iKronyck)
   
 </div>
