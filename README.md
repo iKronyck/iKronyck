@@ -45,7 +45,7 @@
   
   <hr/>
   
-  # My Github status
+  # My Github status :chart_with_upwards_trend:
 
 <p align = "center">
   <img
@@ -58,7 +58,7 @@
 
 </div>
 
-# Connect with me:
+# Connect with me :speech_balloon:
   
 <div align="center">
   <img
